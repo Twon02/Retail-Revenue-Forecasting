@@ -1,5 +1,4 @@
 # data
-data/raw/
 data/processed/*_split*.csv
 data/processed/tmp/
 # notebooks
