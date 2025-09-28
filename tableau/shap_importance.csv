@@ -1,0 +1,46 @@
+feature,importance
+total_trans_ct,1.7421117
+total_trans_amt,1.182185
+total_revolving_bal,0.8373502
+avg_trans_amt,0.71008235
+total_ct_chng_q4_q1,0.5278844
+total_amt_chng_q4_q1,0.5179937
+trans_per_month,0.40433687
+total_relationship_count,0.40197673
+months_inactive_12_mon,0.38875037
+customer_age,0.2547654
+contacts_count_12_mon,0.17931429
+avg_open_to_buy,0.13399093
+gender_M,0.12901272
+credit_limit,0.12087738
+avg_utilization_ratio,0.11227157
+contact_rate_12m,0.10443625
+marital_status_Married,0.10254956
+months_on_book,0.089485124
+dependent_count,0.062846564
+income_category_$60K - $80K,0.054548018
+marital_status_Single,0.039133318
+inactive_3plus_12m,0.031169051
+income_category_$40K - $60K,0.017302627
+education_level_Post-Graduate,0.01450261
+util_band_low,0.012403271
+education_level_Graduate,0.011022434
+education_level_Uneducated,0.006741303
+education_level_High School,0.006669998
+education_level_Unknown,0.0054000146
+card_category_Blue,0.004320393
+education_level_College,0.0040973593
+card_category_Silver,0.003872705
+education_level_Doctorate,0.003661582
+income_category_Less than $40K,0.0036115348
+income_category_Unknown,0.003598007
+util_band_very_low,0.0035158552
+income_category_$80K - $120K,0.003096913
+util_band_medium,0.0030539155
+income_category_$120K +,0.0027315316
+marital_status_Unknown,0.0021276565
+marital_status_Divorced,0.0019638815
+card_category_Gold,0.00063374435
+util_band_high,0.00024307445
+card_category_Platinum,0.0
+util_band_very_high,0.0

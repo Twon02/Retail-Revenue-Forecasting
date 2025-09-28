@@ -1,0 +1,27 @@
+column,description
+id,Stable unique customer identifier
+churn,"Binary target: 1=Attrited Customer, 0=Existing Customer"
+customer_age,Customer age (years)
+gender,Gender
+dependent_count,Number of dependents
+education_level,Highest education
+marital_status,Marital status
+income_category,Income bucket
+card_category,"Card category (e.g., Blue, Gold)"
+months_on_book,Months with bank (tenure)
+total_relationship_count,Number of products held
+months_inactive_12_mon,Inactive months in last 12 months
+contacts_count_12_mon,Bank contacts in last 12 months
+credit_limit,Credit limit
+total_revolving_bal,Revolving balance
+avg_open_to_buy,Credit limit minus revolving balance
+total_amt_chng_q4_q1,Change in transaction amount (Q4 vs Q1)
+total_trans_amt,Total transaction amount (last 12 months)
+total_trans_ct,Total transaction count (last 12 months)
+total_ct_chng_q4_q1,Change in transaction count (Q4 vs Q1)
+avg_utilization_ratio,Average credit utilization ratio
+avg_trans_amt,Engineered: total_trans_amt / total_trans_ct
+trans_per_month,Engineered: total_trans_ct / 12
+contact_rate_12m,Engineered: contacts_count_12_mon / 12
+inactive_3plus_12m,Engineered: 1 if months_inactive_12_mon ≥ 3
+util_band,Engineered: utilization ratio band (very_low..very_high)

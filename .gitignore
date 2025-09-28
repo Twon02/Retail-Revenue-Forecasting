@@ -1,0 +1,15 @@
+# data
+data/raw/
+data/processed/*_split*.csv
+data/processed/tmp/
+# notebooks
+.ipynb_checkpoints/
+*.out.ipynb
+# env / OS
+.venv/
+__pycache__/
+.DS_Store
+# IDE
+.vscode/
+# big binaries (keep .twbx small or LFS)
+# tableau/*.twbx
